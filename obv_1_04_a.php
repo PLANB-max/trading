@@ -38,12 +38,7 @@ class IndicatorSettings {
     ];
 }
 
-// Telegram-Einstellungen
-class TelegramConfig {
-    public static $botToken = "7547872804:AAHr6am4eCNqRsJ1C38fZNuTZVE6fef2nU0";
-    public static $chatID = "-4705682588";
-    public static $parseMode = 'Markdown';
-}
+
 
 // Backtesting-Einstellungen
 class BacktestConfig {
